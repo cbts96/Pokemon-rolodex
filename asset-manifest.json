@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Pokemon-rolodex/static/css/main.0aa3d863.chunk.css",
+    "main.js": "/Pokemon-rolodex/static/js/main.31fab061.chunk.js",
+    "main.js.map": "/Pokemon-rolodex/static/js/main.31fab061.chunk.js.map",
+    "runtime-main.js": "/Pokemon-rolodex/static/js/runtime-main.2f1d7f9b.js",
+    "runtime-main.js.map": "/Pokemon-rolodex/static/js/runtime-main.2f1d7f9b.js.map",
+    "static/js/2.6a66dadf.chunk.js": "/Pokemon-rolodex/static/js/2.6a66dadf.chunk.js",
+    "static/js/2.6a66dadf.chunk.js.map": "/Pokemon-rolodex/static/js/2.6a66dadf.chunk.js.map",
+    "index.html": "/Pokemon-rolodex/index.html",
+    "precache-manifest.7ca751714921e0fb08d096b623f4871f.js": "/Pokemon-rolodex/precache-manifest.7ca751714921e0fb08d096b623f4871f.js",
+    "service-worker.js": "/Pokemon-rolodex/service-worker.js",
+    "static/css/main.0aa3d863.chunk.css.map": "/Pokemon-rolodex/static/css/main.0aa3d863.chunk.css.map",
+    "static/js/2.6a66dadf.chunk.js.LICENSE": "/Pokemon-rolodex/static/js/2.6a66dadf.chunk.js.LICENSE",
+    "static/media/index.css": "/Pokemon-rolodex/static/media/pokemon_go_team_valor_team_red_4k.738aa749.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2f1d7f9b.js",
+    "static/js/2.6a66dadf.chunk.js",
+    "static/css/main.0aa3d863.chunk.css",
+    "static/js/main.31fab061.chunk.js"
+  ]
+}
