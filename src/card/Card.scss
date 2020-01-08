@@ -1,0 +1,19 @@
+.item{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin:20px;
+    background-color: #95dada;
+    border-radius: 3px;
+    padding: 10px;
+    transition: 2s;
+    overflow: hidden;
+}
+.item:hover{
+    transform: scale(1.1);
+}
+.img{
+    width: 120px;
+    height: 120px;
+}
