@@ -9,6 +9,7 @@
     padding: 10px;
     transition: 2s;
     overflow: hidden;
+    position: relative;
 }
 .item:hover{
     transform: scale(1.1);
@@ -16,4 +17,17 @@
 .img{
     width: 120px;
     height: 120px;
+}
+.button{
+    padding: 15px 25px;
+    color:white;
+    background-color: black;
+    border: none;
+    position: absolute;
+    top: 0;
+    right: 0;
+}
+.button:hover{
+    background-color: white;
+    color: black;
 }

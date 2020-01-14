@@ -8,7 +8,7 @@ export default class Cardlist extends Component {
             <div className="box">
                 {this.props.monster.map((value,key)=>{
                     return (
-                    <Card key={key} monster={value}/>
+                    <Card key={key} monster={value} deleteCard={this.props.deleteCard}/>
                     )
                 })}
             </div>
