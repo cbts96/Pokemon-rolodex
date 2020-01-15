@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1eb6c8c1d649080d4210cc63c70e2ed4",
+    "revision": "f972ff3e9e44510cc7d16ad6c77aa757",
     "url": "/Pokemon-rolodex/index.html"
   },
   {
-    "revision": "b16d1c5248dce565a384",
-    "url": "/Pokemon-rolodex/static/css/main.0aa3d863.chunk.css"
+    "revision": "5836c77ab0632402d792",
+    "url": "/Pokemon-rolodex/static/css/main.fccbf6d2.chunk.css"
   },
   {
     "revision": "c99fb85c0e6b9e5fbfc4",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Pokemon-rolodex/static/js/2.6a66dadf.chunk.js.LICENSE"
   },
   {
-    "revision": "b16d1c5248dce565a384",
-    "url": "/Pokemon-rolodex/static/js/main.31fab061.chunk.js"
+    "revision": "5836c77ab0632402d792",
+    "url": "/Pokemon-rolodex/static/js/main.f7b95c3d.chunk.js"
   },
   {
     "revision": "a01f0255e3aca6ea6283",
